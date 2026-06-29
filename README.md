@@ -64,12 +64,15 @@ Project Documents
 
 * FOUNDING.md — Why this project began.
 * NON_NEGOTIABLES.md — The rules that guide every decision.
+* README.md — Project overview.
 * ROADMAP.md — Long-term direction.
 * IDEAS.md — Every idea before implementation.
 * BACKLOG.md — Ideas worth building in the future.
+* days/ — Daily journals about the project, thoughts, and progress.
+* build_logs/ — Objective records of what was built and changed.
 * memories/ — Personal memories and development logs.
 * conversations/ — Conversations that changed the direction of the project.
 
-⸻
+
 
 Some nights are dark. Tomorrow still comes.
